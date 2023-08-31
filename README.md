@@ -1,2 +1,3 @@
 # SodokuApp
- A Sodoku App using C++
+
+A Sodoku App using C++
